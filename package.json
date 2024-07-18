@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "@feathersjs/feathers": "^5.0.29",
+    "@feathersjs/koa": "^5.0.29",
+    "@feathersjs/socketio": "^5.0.29",
     "typescript": "^5.5.3"
   },
   "devDependencies": {
