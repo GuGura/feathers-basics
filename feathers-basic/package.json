@@ -10,6 +10,7 @@
     "@feathersjs/feathers": "^5.0.29",
     "@feathersjs/koa": "^5.0.29",
     "@feathersjs/socketio": "^5.0.29",
+    "simple-git": "^3.25.0",
     "typescript": "^5.5.3"
   },
   "devDependencies": {
